@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Mahadevj21/DSA-Problems/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Mahadevj21/DSA-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Mahadevj21/DSA-Problems/tree/main/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Mahadevj21/DSA-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Mahadevj21/DSA-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mahadevj21/DSA-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Mahadevj21/DSA-Problems/tree/main/0283-move-zeroes/) | Easy |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Mahadevj21/DSA-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Mahadevj21/DSA-Problems/tree/main/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Mahadevj21/DSA-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Mahadevj21/DSA-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mahadevj21/DSA-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Mahadevj21/DSA-Problems/tree/main/0283-move-zeroes/) | Easy |
@@ -41,4 +43,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Mahadevj21/DSA-Problems/tree/main/0011-container-with-most-water/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Mahadevj21/DSA-Problems/tree/main/0042-trapping-rain-water/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Mahadevj21/DSA-Problems/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Mahadevj21/DSA-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
